@@ -1,7 +1,7 @@
 package Connect;
 
 class Add{
-	//instance variable
+	//instance variables
 	int num;
 	//a,b are local variables because they are in method add()
 	public int add(int a, int b) {
